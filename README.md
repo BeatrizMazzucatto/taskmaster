@@ -478,10 +478,6 @@ mvn test
 
 Ana Layslla - https://www.linkedin.com/in/ana-layslla/ & Beatriz Mazzucatto - www.linkedin.com/in/beatriz-mazzucatto-seabra
 
-## 📅 Data
-
-21/09
-
 ---
 
 **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Guarulhos.**  
